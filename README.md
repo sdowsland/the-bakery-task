@@ -8,7 +8,7 @@ A bakery in France struggles to produce the right amount of products each day. T
 
 Please see attached datasets labelled ‘bakery_sales.csv’ and ‘weather_2021.01.01-2022.10.31.csv’.
 
-These are available in the data folder
+These are available in the data folder, the readme.md in the data folder describes the structure.
 
  
 
